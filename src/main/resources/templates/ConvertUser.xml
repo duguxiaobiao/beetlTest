@@ -1,0 +1,5 @@
+<person>
+    <who>${user.name}</who>
+    <whosAge>${user.age}</whosAge>
+    <whosAddress>${user.address}</whosAddress>
+</person>
